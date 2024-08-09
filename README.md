@@ -1,6 +1,6 @@
 👋 Hi, I’m @NilsFo
 
-PhD Student at the bioinformatics group at the Ruhr Uni Bochum, Germany.
+Ruhr Uni Bochum alumni, Germany.
 
 Game Dev and Android Dev as a hobby.
 
